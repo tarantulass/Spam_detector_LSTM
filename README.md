@@ -1,2 +1,2 @@
 # Spam_detector_LSTM
-Spam detection vis RNNs (pyTorch)
+Spam detection via RNNs (pyTorch)
